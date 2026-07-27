@@ -1,4 +1,4 @@
-# HeyDoc (TheArch)
+# HeyDoc
 
 A healthcare RAG application built for an IIT KGP hackathon, by a 2-person
 team. Patients keep a single longitudinal medical vault; doctors, labs,
