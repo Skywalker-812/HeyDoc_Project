@@ -1,6 +1,6 @@
 # HeyDoc
 
-A healthcare RAG application built for an IIT KGP hackathon, by a 2-person
+A healthcare RAG application, built by a 2-person
 team. Patients keep a single longitudinal medical vault; doctors, labs,
 TPAs (insurance desks), and hospital admins interact with that vault
 according to real hospital-style access rules.
